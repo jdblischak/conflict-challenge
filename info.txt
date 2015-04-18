@@ -1,4 +1,4 @@
-Name:
-Field of study:
-Favorite color:
+Name: John Blischak
+Field of study: Genetics
+Favorite color: Purple
 
